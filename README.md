@@ -38,12 +38,12 @@ To get a local copy of the website up and running, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/chouaib-629/digital-agency-website.git
+   git clone https://github.com/chouaib-629/digitalAgence_website_Bootstrap.git
     ```
 2. **Navigate to the project directory:**
 
     ```bash
-    cd digital-agency-website
+    cd digitalAgence_website_Bootstrap
     ```
 
 3. **Open the `index.html` file in your web browser:**
