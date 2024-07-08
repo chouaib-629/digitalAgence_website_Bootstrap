@@ -12,7 +12,6 @@ This repository contains the code for a digital agency website built using HTML,
 - [Contributing](#contributing)
 - [Contact Information](#contact-information)
 
-
 ## Features
 
 - **Responsive Design:** The website is fully responsive and looks great on all devices.
@@ -40,6 +39,7 @@ To get a local copy of the website up and running, follow these steps:
    ```bash
    git clone https://github.com/chouaib-629/digitalAgence_website_Bootstrap.git
     ```
+
 2. **Navigate to the project directory:**
 
     ```bash
@@ -47,11 +47,11 @@ To get a local copy of the website up and running, follow these steps:
     ```
 
 3. **Open the `index.html` file in your web browser:**
-    
+
     ```bash
     open index.html
     ```
-`
+
 ## Usage
 
 - **Navigation Bar:** Use the navigation links to scroll smoothly to different sections of the website.
@@ -67,6 +67,7 @@ To get a local copy of the website up and running, follow these steps:
 Here is a screenshot of the website:
 
 ### Full Website
+
 ![Full website](screenshots/digitalAgence_website.png)
 
 ## Contributing
@@ -76,21 +77,22 @@ Contributions are welcome! Please follow these steps to contribute:
 1. Fork the repository.
 
 2. Create a new branch:
-```bash
-git checkout -b feature/your-feature-name
-```
+
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
 
 3. Make your changes and commit them:
 
-```bash
-git commit -m "Add your commit message"
-```
+    ```bash
+    git commit -m "Add your commit message"
+    ```
 
 4. Push to the branch:
 
-```bash
-git push origin feature/your-feature-name
-```
+    ```bash
+    git push origin feature/your-feature-name
+    ```
 
 5. Create a pull request.
 
